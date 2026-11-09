@@ -1,5 +1,4 @@
 #pragma once
-
 void exercise1();
 void exercise2();
 void exercise3();
